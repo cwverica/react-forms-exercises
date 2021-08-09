@@ -1,0 +1,11 @@
+.Box {
+    border: 1px black solid;
+    display: inline-block;
+}
+
+.Box-button {
+    font-weight: bold;
+    width: 20px;
+    height: 20px;
+    display: inline-block
+}
